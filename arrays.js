@@ -5,4 +5,4 @@
     console.log( arr[0], arr[4], arr[9]);           //10 50 100
     console.log( arr[-1],arr[10] );                 //undefined undefined
     arr.length = 5;
-    console.log( arr[0],arr[4],arr[5] );           
+    console.log( arr[0],arr[4],arr[5] );          //here is lakshman 
